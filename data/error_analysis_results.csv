@@ -1,0 +1,51 @@
+job_id,job_title,candidate_id,candidate_name,actual_label,prediction,probability,tfidf_similarity,skill_match_ratio,weighted_skill_match_ratio,matched_skills,missing_skills
+J001,Machine Learning Engineer,C001,Aarav Sharma,1,1,0.9676864571989384,0.40066592233278153,0.7142857142857143,0.6666666666666666,"machine learning, numpy, pandas, python, sql","nlp, scikit-learn"
+J001,Machine Learning Engineer,C002,Priya Singh,0,0,0.051831045174172065,0.033763074902593886,0.14285714285714285,0.16666666666666666,python,"machine learning, nlp, numpy, pandas, scikit-learn, sql"
+J001,Machine Learning Engineer,C003,Rohan Kumar,1,1,0.9890599156019578,0.4276162703755462,0.8571428571428571,0.8333333333333334,"machine learning, numpy, pandas, python, scikit-learn, sql",nlp
+J001,Machine Learning Engineer,C004,Neha Patel,0,0,0.016746598168627475,0.0,0.0,0.0,None,"machine learning, nlp, numpy, pandas, python, scikit-learn, sql"
+J001,Machine Learning Engineer,C005,Arjun Mehta,1,1,0.9529087345704876,0.3242429664456774,0.7142857142857143,0.7777777777777778,"machine learning, nlp, pandas, python, scikit-learn","numpy, sql"
+J001,Machine Learning Engineer,C006,Meera Joshi,0,0,0.0669274721805678,0.06399099070822517,0.14285714285714285,0.16666666666666666,python,"machine learning, nlp, numpy, pandas, scikit-learn, sql"
+J001,Machine Learning Engineer,C007,Karan Verma,1,1,0.5621053357936788,0.14619550421185457,0.5714285714285714,0.5,"numpy, pandas, python, sql","machine learning, nlp, scikit-learn"
+J001,Machine Learning Engineer,C008,Ananya Rao,1,1,0.9943814612838953,0.40636887518126563,1.0,1.0,"machine learning, nlp, numpy, pandas, python, scikit-learn, sql",None
+J001,Machine Learning Engineer,C009,Vikram Shah,0,0,0.016746598168627475,0.0,0.0,0.0,None,"machine learning, nlp, numpy, pandas, python, scikit-learn, sql"
+J001,Machine Learning Engineer,C010,Sneha Kapoor,0,0,0.020162768354057316,0.02104315675900338,0.0,0.0,None,"machine learning, nlp, numpy, pandas, python, scikit-learn, sql"
+J002,Backend Developer,C001,Aarav Sharma,0,0,0.025265489899807713,0.04672614819181009,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C002,Priya Singh,1,1,0.9882232449808735,0.3233338116158731,1.0,1.0,"java, mysql, rest api, spring boot",None
+J002,Backend Developer,C003,Rohan Kumar,0,0,0.021067757425659795,0.02603126604429252,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C004,Neha Patel,0,0,0.02427730285451235,0.042174120165774646,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C005,Arjun Mehta,0,0,0.016746598168627475,0.0,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C006,Meera Joshi,1,0,0.370728432281268,0.2533695843168355,0.25,0.2,rest api,"java, mysql, spring boot"
+J002,Backend Developer,C007,Karan Verma,0,0,0.016746598168627475,0.0,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C008,Ananya Rao,0,0,0.016746598168627475,0.0,0.0,0.0,None,"java, mysql, rest api, spring boot"
+J002,Backend Developer,C009,Vikram Shah,1,1,0.9716463681256684,0.36460316813867244,0.75,0.8,"java, rest api, spring boot",mysql
+J002,Backend Developer,C010,Sneha Kapoor,0,0,0.11539918628770669,0.08561827641551603,0.25,0.2,rest api,"java, mysql, spring boot"
+J003,Data Analyst,C001,Aarav Sharma,1,1,0.9672147568787772,0.30203718672108676,0.8,0.9,"numpy, pandas, python, sql",excel
+J003,Data Analyst,C002,Priya Singh,0,0,0.07602647715491681,0.021184947058012937,0.2,0.3,python,"excel, numpy, pandas, sql"
+J003,Data Analyst,C003,Rohan Kumar,1,1,0.9031224952716403,0.1738540927168041,0.8,0.9,"numpy, pandas, python, sql",excel
+J003,Data Analyst,C004,Neha Patel,0,0,0.016746598168627475,0.0,0.0,0.0,None,"excel, numpy, pandas, python, sql"
+J003,Data Analyst,C005,Arjun Mehta,0,0,0.20320474768560548,0.02251045211592602,0.4,0.5,"pandas, python","excel, numpy, sql"
+J003,Data Analyst,C006,Meera Joshi,0,0,0.08122324932604998,0.029169482173150546,0.2,0.3,python,"excel, numpy, pandas, sql"
+J003,Data Analyst,C007,Karan Verma,1,1,0.9867355556970374,0.3099299201654756,1.0,1.0,"excel, numpy, pandas, python, sql",None
+J003,Data Analyst,C008,Ananya Rao,1,1,0.7675688411742368,0.058383748863852586,0.8,0.9,"numpy, pandas, python, sql",excel
+J003,Data Analyst,C009,Vikram Shah,0,0,0.016746598168627475,0.0,0.0,0.0,None,"excel, numpy, pandas, python, sql"
+J003,Data Analyst,C010,Sneha Kapoor,0,0,0.016746598168627475,0.0,0.0,0.0,None,"excel, numpy, pandas, python, sql"
+J004,Frontend Developer,C001,Aarav Sharma,0,0,0.02560925586121542,0.048269105169723596,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C002,Priya Singh,0,0,0.02147690678682927,0.02821794247408379,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C003,Rohan Kumar,0,0,0.021227676857672285,0.02689085163268912,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C004,Neha Patel,1,1,0.9953013099981793,0.4263649505979936,1.0,1.0,"css, html, javascript, react, typescript",None
+J004,Frontend Developer,C005,Arjun Mehta,0,0,0.016746598168627475,0.0,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C006,Meera Joshi,0,0,0.09902753406847724,0.207467951538442,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C007,Karan Verma,0,0,0.016746598168627475,0.0,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C008,Ananya Rao,0,0,0.016746598168627475,0.0,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C009,Vikram Shah,0,0,0.02574607292202573,0.04887758977185303,0.0,0.0,None,"css, html, javascript, react, typescript"
+J004,Frontend Developer,C010,Sneha Kapoor,1,1,0.9921055759929343,0.36827366400985073,1.0,1.0,"css, html, javascript, react, typescript",None
+J005,Backend Python Developer,C001,Aarav Sharma,1,0,0.1888598853209938,0.14497389098941355,0.2,0.2727272727272727,python,"django, git, postgresql, rest api"
+J005,Backend Python Developer,C002,Priya Singh,0,0,0.3734931012553007,0.1304110968637952,0.4,0.45454545454545453,"python, rest api","django, git, postgresql"
+J005,Backend Python Developer,C003,Rohan Kumar,0,0,0.11237172333521697,0.07717829739695878,0.2,0.2727272727272727,python,"django, git, postgresql, rest api"
+J005,Backend Python Developer,C004,Neha Patel,0,0,0.019625760724351553,0.01797856946563468,0.0,0.0,None,"django, git, postgresql, python, rest api"
+J005,Backend Python Developer,C005,Arjun Mehta,0,0,0.07824529215717545,0.032706002410051914,0.2,0.2727272727272727,python,"django, git, postgresql, rest api"
+J005,Backend Python Developer,C006,Meera Joshi,1,1,0.9982973560803113,0.5396467109332274,1.0,1.0,"django, git, postgresql, python, rest api",None
+J005,Backend Python Developer,C007,Karan Verma,0,0,0.07631891318518404,0.029700056721275698,0.2,0.2727272727272727,python,"django, git, postgresql, rest api"
+J005,Backend Python Developer,C008,Ananya Rao,0,0,0.07994349457342712,0.03530024463990911,0.2,0.2727272727272727,python,"django, git, postgresql, rest api"
+J005,Backend Python Developer,C009,Vikram Shah,0,1,0.5125010120865309,0.22037247414013386,0.4,0.36363636363636365,"postgresql, rest api","django, git, python"
+J005,Backend Python Developer,C010,Sneha Kapoor,0,0,0.08508543430414793,0.06970214941803005,0.2,0.18181818181818182,rest api,"django, git, postgresql, python"

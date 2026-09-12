@@ -1,0 +1,77 @@
+job_id,title,job_description
+J001,Machine Learning Engineer,"We are looking for a Machine Learning Engineer to develop and evaluate machine learning solutions for real-world problems. The candidate will work with data science and engineering teams to build predictive models and NLP-based applications.
+
+Responsibilities:
+- Develop, train, and evaluate machine learning models.
+- Clean, process, and analyze structured datasets.
+- Build and improve NLP-based solutions.
+- Work with data science libraries for numerical and data analysis.
+- Collaborate with engineering teams to integrate machine learning solutions.
+
+Requirements:
+- Strong Python programming skills.
+- Experience with Pandas and NumPy.
+- Experience with Scikit-learn.
+- Good understanding of machine learning concepts.
+- Working knowledge of SQL.
+- Knowledge of Natural Language Processing (NLP)."
+J002,Backend Developer,"We are looking for a Backend Developer to design, develop, and maintain reliable server-side applications. The candidate will work on backend services, APIs, and database-driven applications while collaborating with frontend and engineering teams.
+
+Responsibilities:
+- Develop and maintain backend services and applications.
+- Design and implement REST API services.
+- Build applications using Java and Spring Boot.
+- Work with relational databases and write efficient queries.
+- Troubleshoot backend issues and improve application reliability.
+
+Requirements:
+- Strong Java programming skills.
+- Experience with Spring Boot.
+- Experience developing REST APIs.
+- Working knowledge of MySQL.
+- Understanding of backend application development and database systems."
+J003,Data Analyst,"We are looking for a Data Analyst to transform raw data into meaningful insights that support business and technical decision-making. The candidate will analyze datasets, prepare reports, and communicate findings to stakeholders.
+
+Responsibilities:
+- Collect, clean, and analyze structured datasets.
+- Perform statistical analysis and identify meaningful trends.
+- Prepare reports and analytical summaries.
+- Use spreadsheets and data analysis tools to support decision-making.
+- Work with technical and business teams to communicate data-driven insights.
+
+Requirements:
+- Strong Python programming skills.
+- Experience with Pandas and NumPy.
+- Working knowledge of SQL.
+- Experience with Excel.
+- Understanding of data analysis and statistics."
+J004,Frontend Developer,"We are looking for a Frontend Developer to build responsive and interactive web interfaces. The candidate will work closely with designers, backend developers, and other engineers to create reliable and user-friendly web applications.
+
+Responsibilities:
+- Develop responsive and interactive web interfaces.
+- Build reusable frontend components.
+- Develop applications using JavaScript and React.
+- Work with TypeScript for maintainable frontend code.
+- Implement web pages using HTML and CSS.
+- Collaborate with backend and design teams.
+
+Requirements:
+- Strong JavaScript programming skills.
+- Experience with React.
+- Experience with TypeScript.
+- Good knowledge of HTML and CSS."
+J005,Backend Python Developer,"We are looking for a Backend Python Developer to build and maintain scalable web applications and backend services. The candidate will develop APIs, work with databases, and collaborate with other engineers to deliver reliable software.
+
+Responsibilities:
+- Develop backend applications using Python and Django.
+- Design and maintain REST API services.
+- Work with PostgreSQL databases.
+- Use Git for source control and collaborative development.
+- Troubleshoot application issues and improve backend reliability.
+
+Requirements:
+- Strong Python programming skills.
+- Experience with Django.
+- Experience developing REST APIs.
+- Working knowledge of PostgreSQL.
+- Experience using Git."

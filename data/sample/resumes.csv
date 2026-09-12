@@ -1,0 +1,11 @@
+candidate_id,name,resume_text,experience_years,education
+C001,Aarav Sharma,"Python developer with experience in Python, Pandas, NumPy, SQL, machine learning and data analysis.",2,"B.Tech Computer Science"
+C002,Priya Singh,"Java developer skilled in Java, Spring Boot, MySQL and REST APIs. Basic knowledge of Python.",3,"B.Tech Information Technology"
+C003,Rohan Kumar,"Data science student with Python, Pandas, NumPy, Scikit-learn, machine learning and SQL experience.",1,"B.Sc Data Science"
+C004,Neha Patel,"Frontend developer experienced in HTML, CSS, JavaScript, React and TypeScript.",2,"B.Tech Computer Science"
+C005,Arjun Mehta,"Machine learning enthusiast with Python, TensorFlow, Scikit-learn, Pandas and NLP projects.",1,"B.Tech Artificial Intelligence"
+C006,Meera Joshi,"Software engineer with Python, Django, PostgreSQL, REST APIs and Git experience. Built backend web applications.",3,"B.Tech Computer Science"
+C007,Karan Verma,"Data analyst skilled in Python, SQL, Excel, Pandas, NumPy, data visualization and statistics.",4,"B.Sc Statistics"
+C008,Ananya Rao,"Machine learning engineer with Python, Scikit-learn, TensorFlow, NLP, Pandas, NumPy and SQL.",3,"M.Tech Artificial Intelligence"
+C009,Vikram Shah,"Java backend developer with Java, Spring Boot, PostgreSQL, REST APIs, Docker and microservices.",5,"B.Tech Computer Science"
+C010,Sneha Kapoor,"Frontend engineer with JavaScript, React, TypeScript, HTML, CSS and REST API integration.",3,"B.Tech Information Technology"

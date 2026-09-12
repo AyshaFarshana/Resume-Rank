@@ -1,0 +1,2 @@
+Python developer with experience in Django,
+PostgreSQL, REST API development and Git.
